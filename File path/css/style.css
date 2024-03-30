@@ -1,5 +1,5 @@
 body{
-    background-color: #14e5e5;
+    background-color: #0fe5e5;
 }
 /* a{
     text-decoration: none;
@@ -34,4 +34,7 @@ strong{
 
 .w{
     font-size: large;
+}
+p{
+   font-size: 10px;
 }
